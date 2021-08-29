@@ -11,10 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Arnav Mehra's
-## First CS193
-### Homework
+# Arnav Mehra's First CS193 Homework
 
+What I Like About CS193:
 - CS193 == ternary operator (pog)
 - CS193 != Gaussian error function (eww)
 
